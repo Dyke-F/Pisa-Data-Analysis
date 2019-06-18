@@ -50,4 +50,6 @@ On the other hand, the second half of this question did not have such a differen
 
 ## Key Insights for Presentation
 
-For the presentation, I will ...
+For the presentation, I will explore the points I discussed above with visualizations. In particular, I will demonstrate the relationship between the Scores, Learning Time, and Out-of-School Study Time variables to better answer the question of there a relationship between the amount of time a student dedicates to learning and their score. This will be done with correlational plots and regression plots. 
+
+I will then continue to answer the question of whether there differences in achievement based on gender or parental education levels. First this will be accomplished by observing a pointplot that holds the information on both the mother's and father's level of education and the Average Total Score that is paired with that level. I will then continue looking at this data from the perspective of a boxplot, but a comparison between genders will also be included in this comparison.
